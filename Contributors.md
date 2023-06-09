@@ -1,5 +1,6 @@
    # Contributors 
 <!-- prettier-ignore-start -->
+- [Sagnik Pramanik](https://github.com/sagnik-p)
 - [Satvik Prakash](https://github.com/satvik84)
 - [Abhimanyu Patidar](https://github.com/AbhimanyuPatidar)
 - [Farhan Khan](https://github.com/BabaYaga1221)
